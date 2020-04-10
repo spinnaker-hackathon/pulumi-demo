@@ -1,0 +1,3 @@
+name: kubernetes-app
+runtime: nodejs
+description: A k8s demo using the RPS app
